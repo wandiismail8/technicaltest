@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Wandi",
+      "email": "wandi123@mail.com",
+      "password": "123456",
+      "isPremium": true,
+      "phoneNumber": "085963214544",
+      "address": "jln. pegangsaan timur no 19"
+    },
+    {
+      "id": 2,
+      "username": "Maulana",
+      "email": "maulana1@gmail.com",
+      "password": "123456",
+      "isPremium": true,
+      "phoneNumber": "085963214577",
+      "address": "jln. cendrawasih no 99"
+    },
+    {
+      "id": 3,
+      "username": "Gibran",
+      "email": "gibran3@gmail.com",
+      "password": "123456",
+      "isPremium": false,
+      "phoneNumber": "085963214590",
+      "address": "jln. tulip no 7"
+    }
+  ]
+}
